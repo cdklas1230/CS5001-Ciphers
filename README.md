@@ -1,8 +1,6 @@
 # Ciphers
 
 #### The final project for CS5001 Intensive Foundations of Computer Science @Northeastern University
-##### Language: Python
-##### Platform: PyCharm
 
 # Introduction
 
